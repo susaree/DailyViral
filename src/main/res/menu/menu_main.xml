@@ -1,0 +1,17 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+    <item
+        android:id="@+id/admin_menu"
+        android:orderInCategory="1"
+        android:title="Admin Login" />
+    <item
+        android:id="@+id/videos_menu"
+        android:orderInCategory="2"
+        android:title="Videos" />
+    <item
+        android:id="@+id/settings_menu"
+        android:orderInCategory="3"
+        android:title="Settings" />
+
+</menu>
